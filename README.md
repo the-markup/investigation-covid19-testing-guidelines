@@ -2,7 +2,7 @@
 
 This repository contains the data for the states that provided their COVID-19 testing guidelines.
 
-Our methodology on how we collected and categorized the data can be found at LINK TO SHOW YOUR WORK 
+Our methodology on how we collected and categorized the data can be found at ["How We Analyzed States’ Coronavirus Testing Plans"](https://themarkup.org/coronavirus/2020/04/16/how-we-analyzed-states-coronavirus-testing-plans)
 
 The data can be found in the `data` folder.
 
